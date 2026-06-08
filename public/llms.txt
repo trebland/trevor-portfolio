@@ -1,0 +1,53 @@
+# Trevor Bland
+
+> Full Stack Software Engineer with 8 years of experience designing, building,
+> and deploying production web applications across real estate, marketing, IoT,
+> and game development. Comfortable across the entire stack — front-end,
+> back-end, and cloud infrastructure. Actively seeking new opportunities.
+
+## Contact
+
+- Email: bland.trevor96@gmail.com
+- GitHub: https://github.com/trebland
+- LinkedIn: https://www.linkedin.com/in/trevor-bland-94b2941b4
+
+## Skills
+
+- **Languages:** TypeScript, JavaScript, Java, C#, PHP, HTML/CSS, HandlebarsJS, GraphQL
+- **Frameworks & Tech:** React, NestJS, Node.js, Symfony, Flutter, Android, .NET, Godot
+- **Cloud & Infra:** AWS, GCP, Pub/Sub, Docker, Azure
+- **Data:** MongoDB, MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Bash
+
+## Experience
+
+- **Software Engineer — Keller Williams Realty Inc.** (Sep 2022 – Mar 2026, Remote)
+  Built large portions of www.kw.com (Flutter + Java/HandlebarsJS/Brightspot CMS);
+  created a NestJS wrapping service over the legacy CMS API; reduced production
+  data delays from ~15 minutes to near-instant via event-driven updates;
+  mentored QA engineers in test automation.
+- **Full Stack Developer — I-CON Systems, LLC.** (Nov 2021 – Sep 2022, Orlando, FL)
+  Built an internal fixture-assembly assistant and a water-fixture management app
+  (Blazor + ReactiveUI front end, C#/.NET back end), hosted on Azure.
+- **Full Stack Developer — Gravitational Marketing** (Oct 2020 – Nov 2021, Remote)
+  Built Call Commando 2.0, a CRM/lead-management application.
+- **Android Developer — National Metering Services, Inc.** (Aug 2019 – Jan 2020)
+  Built a prototype RFID meter-scanning app in Android/Java.
+- **Help Desk Specialist — Retail Technologies Corporation** (Jun 2018 – Dec 2018)
+  Front-line technical support, regression testing, and SQL data work.
+
+## Notable Projects
+
+- **Operation Portal** — Project manager and front-end developer for a Flutter
+  mobile app built for Orlando Children's Church; led a distributed team of 5.
+  https://github.com/trebland/OperationPortal
+- **Doc Foxx** — Designed, built, and deployed a full website (React/TypeScript/Vite
+  front end, NestJS back end) on AWS (EC2, S3, CloudFront, SES, Route 53, IAM).
+  https://www.docfoxx.com
+- **Bash Party Game** — A multiplayer party-game prototype built in Godot,
+  exploring RPCs and server/client authority. https://tibtibs.itch.io/bash-party-game
+
+## Education
+
+- B.S. in Computer Science — University of Central Florida (Sep 2016 – May 2020)
+- Computer Science, Semester Abroad — Hong Kong Polytechnic University (Jan – May 2019)
