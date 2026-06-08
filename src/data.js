@@ -15,7 +15,7 @@ export const profile = {
   photo: '',
   // Drop your resume PDF in /public and set the filename here (e.g. '/resume.pdf').
   // Leave '' to hide the download button.
-  resumePdf: 'resume.pdf',
+  resumePdf: '/TrevorBland_resume.pdf',
   links: {
     github: 'https://github.com/trebland', // TODO: replace with your real GitHub URL
     linkedin: 'https://www.linkedin.com/in/trevor-bland-94b2941b4', // TODO: replace with your real LinkedIn URL

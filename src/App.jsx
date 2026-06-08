@@ -117,7 +117,12 @@ export default function App() {
         <div className="cta">
           <a className="btn primary" href={`mailto:${email}`}>Get in touch</a>
           {resumePdf && (
-            <a className="btn ghost" href={resumePdf} download>
+            <a
+              className="btn ghost"
+              href={resumePdf}
+              download="Trevor-Bland-Resume.pdf"
+              type="application/pdf"
+            >
               <Icon path={icons.download} /> Download Resume
             </a>
           )}
