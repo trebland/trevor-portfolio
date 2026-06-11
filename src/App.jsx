@@ -8,6 +8,7 @@ import {
   projects,
   stats,
 } from './data.js'
+import { Analytics } from '@vercel/analytics/react'
 
 function initials(name) {
   return name.split(' ').map((n) => n[0]).join('').slice(0, 2).toUpperCase()
@@ -221,6 +222,8 @@ export default function App() {
       <footer className="footer">
         <p>© {new Date().getFullYear()} {name}</p>
       </footer>
+
+      <Analytics />
     </div>
   )
 }
